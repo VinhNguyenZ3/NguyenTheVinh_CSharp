@@ -1,0 +1,7 @@
+C:\Users\thvin\Documents\Năm học 22-24\Lập trình windows C#\Bài tập\nguyenthevinh_2121110125_buoi1\bai3\bin\Debug\bai3.exe.config
+C:\Users\thvin\Documents\Năm học 22-24\Lập trình windows C#\Bài tập\nguyenthevinh_2121110125_buoi1\bai3\bin\Debug\bai3.exe
+C:\Users\thvin\Documents\Năm học 22-24\Lập trình windows C#\Bài tập\nguyenthevinh_2121110125_buoi1\bai3\bin\Debug\bai3.pdb
+C:\Users\thvin\Documents\Năm học 22-24\Lập trình windows C#\Bài tập\nguyenthevinh_2121110125_buoi1\bai3\obj\Debug\bai3.csproj.AssemblyReference.cache
+C:\Users\thvin\Documents\Năm học 22-24\Lập trình windows C#\Bài tập\nguyenthevinh_2121110125_buoi1\bai3\obj\Debug\bai3.csproj.CoreCompileInputs.cache
+C:\Users\thvin\Documents\Năm học 22-24\Lập trình windows C#\Bài tập\nguyenthevinh_2121110125_buoi1\bai3\obj\Debug\bai3.exe
+C:\Users\thvin\Documents\Năm học 22-24\Lập trình windows C#\Bài tập\nguyenthevinh_2121110125_buoi1\bai3\obj\Debug\bai3.pdb
